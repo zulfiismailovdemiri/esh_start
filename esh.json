@@ -1,0 +1,18 @@
+{
+  "name": "my-esh-project",
+  "version": "1.0.0",
+  "description": "",
+  "require": {
+    "token":       "main",
+    "lexer":       "main",
+    "ast":         "main",
+    "object":      "main",
+    "environment": "main",
+    "parser":      "main",
+    "evaluator":   "main",
+    "builtins":    "main",
+    "template":    "main",
+    "server":      "main",
+    "db":          "main"
+  }
+}
